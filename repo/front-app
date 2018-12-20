@@ -1,6 +1,6 @@
 db.url=localhost
 
-switch.sms=true
+switch.sms=false
 switch.promotion=false
 switch.points=true
 
